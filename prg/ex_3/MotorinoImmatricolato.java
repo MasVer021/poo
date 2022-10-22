@@ -6,6 +6,7 @@ public class MotorinoImmatricolato extends Motorino
 	private float maxVelocita;
 	private String targa;
 
+	//constructor method
 	public MotorinoImmatricolato(String colore, String tipo,float velocita, float maxVelocita,String targa)
 	{
  		super(colore,tipo,velocita);

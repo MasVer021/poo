@@ -1,0 +1,18 @@
+Scrivere la classe Dipendente che ha i seguenti attributi
+matricola: una stringa indicante il numero di matricola del
+dipendente, stipendio: un numero con la virgola indicante lo
+stipendio base che possiede il dipendente, straordinario: un
+numero con la virgola indicante l’importo dovuto per ciascuna
+ora di straordinario effettuata dal dipendente.
+Il costruttore ha come parametri una stringa per la matricola, un
+numero con la virgola per lo stipendio ed un numero con la
+virgola per lo straordinario ed assegna opportunamente i valori
+dei parametri agli attributi.
+Scrivere il metodo getStipendio che restituisce il valore
+dell’attributo stipendio, scrivere inoltre il metodo paga che ha
+come parametro un numero intero indicante il numero di ore di
+straordinario effettuate dal dipendente, il metodo restituisce il
+valore ottenuto sommando all’attributo stipendio il risultato del
+prodotto tra il parametro del metodo e l’attributo straordinario.
+Scrivere il metodo stampa che stampa il valore degli attributi
+della classe

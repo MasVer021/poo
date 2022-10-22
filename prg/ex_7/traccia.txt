@@ -1,0 +1,11 @@
+Scrivere la classe CalcolaStipendi che ha il metodo
+main in cui istanziare un oggetto di tipo Dipendente
+con matricola 00309 stipendio 1000,00 e straordinario
+7,50. Richiamare il metodo paga con parametro pari a
+10, stampare il valore dello stipendio di tale oggetto
+richiamando getStipendio. Istanziare un altro oggetto
+di tipo DipendeteA con matricola 00201 stipendio
+1500,0 e straordinario 8,50. Richiamare il metodo
+prendiMalattia con parametro pari a 5, richiamare il
+metodo paga con parametro pari a 3 ed il metodo
+stampaMalattia.
