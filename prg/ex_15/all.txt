@@ -1,0 +1,28 @@
+Scheda: #1
+Stato: Data_Di_Arrivo
+Data di arrivo: 10-10-2023
+Targa: DV675FR
+Modello: Focus
+Proprietario: Samuele
+
+Scheda: #2
+Stato: Consegnato
+Data di arrivo: 06-10-2023
+Targa: GF675HT
+Modello: Fiesta
+Proprietario: Sandro
+
+Scheda: #3
+Stato: Riparato
+Data di arrivo: 05-12-2022
+Targa: BY789OP
+Modello: 159
+Proprietario: Francesco
+
+Scheda: #4
+Stato: In_riparazione
+Data di arrivo: 02-01-2021
+Targa: M43MMT
+Modello: Alfa Romeo
+Proprietario: Maximino
+

@@ -1,0 +1,7 @@
+Scheda: #4
+Stato: In_riparazione
+Data di arrivo: 02-01-2021
+Targa: M43MMT
+Modello: Alfa Romeo
+Proprietario: Maximino
+
